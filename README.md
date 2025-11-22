@@ -106,4 +106,8 @@ void loop() {
 - LiquidCrystal I2C
 
 # Conexion
-![]()
+![](https://github.com/vicentealexhm-VAHM/Practica-3-ESP32-con-DHT22-y-LCD/blob/main/Captura%20de%20pantalla%202025-11-22%20083433.png?raw=true)
+
+# Creditos 
+Desarrollado por Vicente Alexander Hernandez Maldonado
+- GitHub
